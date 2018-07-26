@@ -8,6 +8,12 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
+@import 'node_modules/font-awesome/scss/fontawesome';
+
+//Bulma
+@import 'node_modules/bulma/bulma';
+@import 'node_modules/buefy/src/components/scss/buefy';
+
 .navbar-laravel {
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
